@@ -5,7 +5,7 @@ body {
 }
 
 p {
-  font-family: "Montserrat";
+  font-family: Montserrat;
 }
 
 h1 {
@@ -16,13 +16,13 @@ h1 {
 
 h2 {
   color: #66BFBF;
-  font-family: "Montserrat";
+  font-family: Montserrat;
   font-size: 2.5rem;
 }
 
 h3 {
   color: #66BFBF;
-  font-family: "Sansita Swashed";
+  font-family: Sansita Swashed;
 }
 
 hr {
@@ -145,7 +145,7 @@ a {
 }
 
 .footer-link {
-  font-family: "Montserrat";
+  font-family: Montserrat;
   position: relative;
   top: 40px;
   padding-left: 25px;
