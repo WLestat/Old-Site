@@ -72,14 +72,6 @@ a {
   text-decoration: none;
 }
 
-a:focus, a:hover {
-  border-bottom: 2px solid;
-}
-
-a:visited {
-  color: green;
-}
-
 .skill-row {
   font-size: 12px;
   width: 50%;
@@ -153,6 +145,7 @@ a:visited {
 }
 
 .bottom-container {
+  psition: relative;
   background-color: #a3d8f4;
   height: 150px;
 }
