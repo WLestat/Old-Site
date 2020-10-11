@@ -3,7 +3,8 @@ body {
   color: #4a514e;
   text-align: center;
 }
-
+p {
+  font-family: Montserrat;
 h1 {
   color: #66BFBF;
   font-family: "Dancing Script";
