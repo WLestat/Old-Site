@@ -5,7 +5,7 @@ body {
 }
 
 p {
-  font-family: Montserrat;
+  font-family: "Montserrat";
 }
 
 h1 {
@@ -22,7 +22,7 @@ h2 {
 
 h3 {
   color: #66BFBF;
-  font-family: "Sansita Swashed";
+  font-family: "Montserrat";
 }
 
 hr {
